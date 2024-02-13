@@ -1,1 +1,2 @@
-# currency-convertor
+Currency Converter
+Convert currencies effortlessly with this web-based Currency Converter. Built using HTML, CSS, and JavaScript, this user-friendly application provides real-time exchange rates to ensure accurate and up-to-date conversions. With a sleek and intuitive interface, users can easily switch between various international currencies. Simply enter the amount, select the desired currencies, and get instant conversion results. Experience seamless currency conversion for your global financial needs.
